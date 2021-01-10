@@ -11,7 +11,7 @@ Software engineering team generator command line application. This application w
 
 ## Installations
 
-npm i
+npm i <br />
 npm inquirer
 
 ## Run
