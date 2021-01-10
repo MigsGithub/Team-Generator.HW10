@@ -7,7 +7,7 @@ Software engineering team generator command line application. This application w
 [Video to view working test prompt](https://www.youtube.com/watch?v=Wfdl57e-RmM)
 
 ## Finish product
-![ScreenShot](Screen Shot 2021-01-10 at 1.26.47 PM.png)
+![ScreenShot](./Screen Shot 2021-01-10 at 1.26.47 PM.png)
 
 ## Installations
 
