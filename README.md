@@ -7,13 +7,14 @@ Software engineering team generator command line application. This application w
 [Video to view working test prompt](https://www.youtube.com/watch?v=Wfdl57e-RmM)
 
 ## Finish product
-![ScreenShot](Screen Shot 2021-01-10 at 1.26.47 PM.png)
+![ScreenShot](Screen%20Shot%202021-01-10%20at%201.26.47%20PM.png)
 
 ## Installations
 
-
+npm i
+npm inquirer
 
 ## Run
 
-
+node app.js
 
